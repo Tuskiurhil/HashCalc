@@ -16,8 +16,6 @@ HashCalc is a **PythonScript** that calculates the *Hashsum* of a file.
 
 * Requirements:
   - PySimpleGUI
-  - hashlib
-  - os.path
 	
 ## Setup and Usage
 
