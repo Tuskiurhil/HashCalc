@@ -34,6 +34,7 @@ Then just write out or copy the path to your file and click "Calculate"
 
 The planned features are in no particular order
 
-* Ability to select mutiple files
-* Ability to select an entire directory
+* Ability to select mutiple files (and show possible Hash Collisions!)
+* Ability to select an entire directory (and show possible Hash Collisions!)
 * Ability to select which Hashsums to calculate
+* Turn Script into an Executable/Program for ease-of-use and no longer needing a Terminal
