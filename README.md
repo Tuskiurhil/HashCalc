@@ -13,6 +13,7 @@ HashCalc is a **PythonScript** that calculates the *Hashsum* of a file.
   -  MD5
   -  SHA-1
   -  SHA256
+  -  SHA512
 
 * Requirements:
   - PySimpleGUI
@@ -35,5 +36,4 @@ The planned features are in no particular order
 
 * Ability to select mutiple files
 * Ability to select an entire directory
-* Storing Output in a text file, including filenames
 * Ability to select which Hashsums to calculate
