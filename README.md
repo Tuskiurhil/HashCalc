@@ -1,5 +1,7 @@
 # HashCalc
 
+![HASHCALC](https://www.dropbox.com/s/xk5rtsj69qg3sco/calculatewindow.jpg?raw=1)
+
 
 ## Table of contents
 * [General info](#general-info)
